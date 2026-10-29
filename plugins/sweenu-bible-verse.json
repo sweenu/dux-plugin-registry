@@ -3,12 +3,12 @@
     "name": "Bible Verse",
     "capabilities": ["launcher"],
     "category": "utilities",
-    "repo": "https://github.com/sweenu/dms-bible-verse",
+    "repo": "https://github.com/sweenu/dux-bible-verse",
     "author": "sweenu",
     "description": "Look up Bible passages like Mat 5:38-42 from the launcher and copy them to the clipboard, in any translation offered by bolls.life",
     "dependencies": [],
     "compositors": ["any"],
     "distro": ["any"],
-    "screenshot": "https://raw.githubusercontent.com/sweenu/dms-bible-verse/main/screenshot.png",
+    "screenshot": "https://raw.githubusercontent.com/sweenu/dux-bible-verse/main/screenshot.png",
     "requires_dms": ">=2.0.0"
 }
